@@ -22,8 +22,8 @@ Heading towards **DevSecOps/Cloud Engineering**. 🧩🧩
 ### 🛠️ Stack
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=festradax07&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=festradax07&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165"/>
 </p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
