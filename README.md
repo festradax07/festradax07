@@ -2,24 +2,37 @@
 
 **DevOps Engineer** at a payments company · **Computer Engineering** student at UNLP · La Plata, AR 🇦🇷
 
-Infrastructure is my home: I care about systems that are reliable, observable and secure by design. ☸️
+Infrastructure is my home: I care about systems that are reliable, observable and secure by design. ☸
 I'm also very passionate about software, since good infra starts with understanding what runs on it, and I'm exploring how **AI agents** can automate operations and the software lifecycle.
 
 Heading towards **DevSecOps/Cloud Engineering**. 🧩🧩
 
-- 🏗️ **Now:** DevOps / SysAdmin at *PVS LATAM* — Container Orchestration (k8s), GitLab CI/CD, Cloud Computing (AWS), proxies, API gateways, Linux, incident response.
-- 🎓 **Teaching Assistant** — Software Engineering @ UNLP
-- 📜 **Studying for:** LFCS → CKA 
-- 🔬 **Into:** Cloud Computing, IT infraestructure, Observability, LLMs/MCP, real-time & distributed systems
+- 🏗 **Now:** DevOps / SysAdmin at *PVS LATAM* — Container Orchestration (k8s), GitLab CI/CD, Cloud Computing (AWS), proxies, API gateways, Linux, incident response.
+- 🎓 **Teaching Collaborator** — Software Engineering @ UNLP
+- 📜 **Studying for:** Terraform Associate → LFCS → CKA / CKAD
+- 🔬 **Into:** Cloud Computing, IT infrastructure, Observability, LLMs/MCP, real-time & distributed systems
+
+### 🏅 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/c57614c5-a787-4db9-8f2b-a391ab7b4310">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certified Solutions Architect – Associate"/>
+  </a>
+</p>
 
 ### 🚀 Featured
 
-- **Real-Time Fraud Engine** — transaction authorization under a 200 ms deadline · `Go` `gRPC` `Redis` 
+- **Real-Time Fraud Engine** — transaction authorization under a 200 ms deadline · `Go` `gRPC` `Redis`
 - **EcoSort** — infra & backend for an edge device project on Raspberry Pi · `Docker` `System Design` `CI/CD` `MLOps`
-- **panchito-mcp** — lightweight MCP server for a self-hosted AI assistant on low-resource hardware `Go` `MCP` `LLMs` `Nginx` `Raspberry Pi`
-- **Audio fingerprinting** — Shazam-style engine in C++. `LowLevel`,`c++`
+- **panchito-mcp** — lightweight MCP server for a self-hosted AI assistant on low-resource hardware · `Go` `MCP` `LLMs` `Nginx` `Raspberry Pi`
+- **Audio fingerprinting** — Shazam-style engine in C++ · `Low-Level` `C++`
 
-### 🛠️ Stack
+### 🛠 Stack
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=festradax07&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=festradax07&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165"/>
+</p>
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=festradax07&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165"/>
